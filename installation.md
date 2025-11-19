@@ -251,7 +251,7 @@ sudo systemctl daemon-reload
 sudo rm -f /usr/local/bin/exrpd
 sudo rm -f $(which exrpd)
 sudo rm -rf $HOME/.exrpd
-sed -i "/XRPL_PORT_/d" $HOME/.bash_profile
+sed -i "/XRPL_MAINNET_PORT_/d" $HOME/.bash_profile
 ```
 
 ### ➡️ Block check
