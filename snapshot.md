@@ -1,7 +1,7 @@
 # ♻️ Snapshot
 
 > **Info**  
-> Updated every 6 hours.  
+> Updated every 12 hours.  
 > Pruning: custom | 100/0/10 | indexer: null
 
 Check snapshot height
