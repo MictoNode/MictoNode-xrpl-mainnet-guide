@@ -1,4 +1,4 @@
-# 👉 XRPL EVM Mainnet
+# 👉 XRPL EVM Mainnet (Archived)
 
 #### Status : 🟢
 
